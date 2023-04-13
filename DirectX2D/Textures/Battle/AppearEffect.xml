@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:e19529e210fe5a7e2a4053ce09fd3e80:219da61d94b352523afb81fa065a8a65:7f142153f2fb567e1ba330a50de54d95$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+pX => x pos of the pivot point (relative to sprite width)
+pY => y pos of the pivot point (relative to sprite height)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+with polygon mode enabled:
+vertices   => points in sprite coordinate system (x0,y0,x1,y1,x2,y2, ...)
+verticesUV => points in sheet coordinate system (x0,y0,x1,y1,x2,y2, ...)
+triangles  => sprite triangulation, 3 vertex indices per triangle
+-->
+<TextureAtlas imagePath="AppearEffect.png" width="168" height="42">
+    <sprite n="AppearEffect1.png" x="1" y="1" w="40" h="40" pX="0.5" pY="0.5"/>
+    <sprite n="AppearEffect2.png" x="43" y="1" w="40" h="40" pX="0.5" pY="0.5"/>
+    <sprite n="AppearEffect3.png" x="85" y="1" w="40" h="40" pX="0.5" pY="0.5"/>
+    <sprite n="AppearEffect4.png" x="127" y="1" w="40" h="40" pX="0.5" pY="0.5"/>
+</TextureAtlas>

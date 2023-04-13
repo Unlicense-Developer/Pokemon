@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:7ab18e6e99332c581d329e7676ef1218:dde4c57b00085d403611604bb454d438:79110fd10f2b1197243dd34989917f6a$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+pX => x pos of the pivot point (relative to sprite width)
+pY => y pos of the pivot point (relative to sprite height)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+with polygon mode enabled:
+vertices   => points in sprite coordinate system (x0,y0,x1,y1,x2,y2, ...)
+verticesUV => points in sheet coordinate system (x0,y0,x1,y1,x2,y2, ...)
+triangles  => sprite triangulation, 3 vertex indices per triangle
+-->
+<TextureAtlas imagePath="GameFreak.png" width="1944" height="1314">
+    <sprite n="GameFreak_0a.png" x="1" y="1" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_0b.png" x="163" y="1" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_0c.png" x="325" y="1" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_0d.png" x="487" y="1" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_1.png" x="649" y="1" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_2.png" x="811" y="1" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_3.png" x="973" y="1" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_4.png" x="1135" y="1" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_5.png" x="1297" y="1" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_6.png" x="1459" y="1" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_7.png" x="1621" y="1" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_8.png" x="1783" y="1" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_9.png" x="1" y="147" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_10.png" x="163" y="147" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_11.png" x="325" y="147" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_12.png" x="487" y="147" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_13.png" x="649" y="147" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_14.png" x="811" y="147" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_15.png" x="973" y="147" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_16.png" x="1135" y="147" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_17.png" x="1297" y="147" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_18.png" x="1459" y="147" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_19.png" x="1621" y="147" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_20.png" x="1783" y="147" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_21.png" x="1" y="293" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_22.png" x="163" y="293" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_23.png" x="325" y="293" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_24.png" x="487" y="293" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_25.png" x="649" y="293" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_26.png" x="811" y="293" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_27.png" x="973" y="293" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_28.png" x="1135" y="293" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_29.png" x="1297" y="293" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_30.png" x="1459" y="293" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_31.png" x="1621" y="293" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_32.png" x="1783" y="293" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_33.png" x="1" y="439" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_34.png" x="163" y="439" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_35.png" x="325" y="439" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_36.png" x="487" y="439" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_37.png" x="649" y="439" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_38.png" x="811" y="439" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_39.png" x="973" y="439" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_40.png" x="1135" y="439" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_41.png" x="1297" y="439" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_42.png" x="1459" y="439" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_43.png" x="1621" y="439" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_44.png" x="1783" y="439" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_45.png" x="1" y="585" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_46.png" x="163" y="585" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_47.png" x="325" y="585" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_48.png" x="487" y="585" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_49.png" x="649" y="585" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_50.png" x="811" y="585" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_51.png" x="973" y="585" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_52.png" x="1135" y="585" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_53.png" x="1297" y="585" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_54.png" x="1459" y="585" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_55.png" x="1621" y="585" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_56.png" x="1783" y="585" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_57.png" x="1" y="731" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_58.png" x="163" y="731" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_59.png" x="325" y="731" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_60.png" x="487" y="731" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_61.png" x="649" y="731" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_62.png" x="811" y="731" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_63.png" x="973" y="731" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_64.png" x="1135" y="731" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_65.png" x="1297" y="731" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_66.png" x="1459" y="731" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_67.png" x="1621" y="731" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_68.png" x="1783" y="731" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_69.png" x="1" y="877" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_70.png" x="163" y="877" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_71.png" x="325" y="877" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_72.png" x="487" y="877" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_73.png" x="649" y="877" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_74.png" x="811" y="877" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_75.png" x="973" y="877" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_76.png" x="1135" y="877" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_77.png" x="1297" y="877" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_78.png" x="1459" y="877" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_79.png" x="1621" y="877" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_80.png" x="1783" y="877" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_81.png" x="1" y="1023" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_82.png" x="163" y="1023" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_83.png" x="325" y="1023" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_84.png" x="487" y="1023" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_85.png" x="649" y="1023" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_86.png" x="811" y="1023" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_87.png" x="973" y="1023" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_88.png" x="1135" y="1023" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_89.png" x="1297" y="1023" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_90.png" x="1459" y="1023" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_91.png" x="1621" y="1023" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_92.png" x="1783" y="1023" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_93.png" x="1" y="1169" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_94.png" x="163" y="1169" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_95.png" x="325" y="1169" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_96.png" x="487" y="1169" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_97.png" x="649" y="1169" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_98.png" x="811" y="1169" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_99.png" x="973" y="1169" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_100.png" x="1135" y="1169" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_101.png" x="1297" y="1169" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_102.png" x="1459" y="1169" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="GameFreak_103.png" x="1621" y="1169" w="160" h="144" pX="0.5" pY="0.5"/>
+</TextureAtlas>

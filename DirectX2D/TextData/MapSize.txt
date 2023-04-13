@@ -1,0 +1,12 @@
+NewBarkTown 22 x 20
+PlayerHouse 1F 12 x 12
+PlayerHouse 2F 12 x 12
+PokemonLab 12 x 14
+Route29 62 x 20
+Gate 12 x 12
+Route30 22 x 56
+VioletCity 42 x 38
+VioletCity_Gym 12 x 17
+( include outside collider)
+
+camera fullsize 12 x 11

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:16dbc35ad9a5a37766df359f4d3cb52e:6c2ef827e4a764d162c1b0600d54e7c6:317c37d93dcaa4600003caa97de399b3$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+pX => x pos of the pivot point (relative to sprite width)
+pY => y pos of the pivot point (relative to sprite height)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+with polygon mode enabled:
+vertices   => points in sprite coordinate system (x0,y0,x1,y1,x2,y2, ...)
+verticesUV => points in sheet coordinate system (x0,y0,x1,y1,x2,y2, ...)
+triangles  => sprite triangulation, 3 vertex indices per triangle
+-->
+<TextureAtlas imagePath="EncounterWipe2.png" width="1944" height="292">
+    <sprite n="001.png" x="1" y="1" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="002.png" x="163" y="1" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="003.png" x="325" y="1" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="004.png" x="487" y="1" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="005.png" x="649" y="1" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="006.png" x="811" y="1" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="007.png" x="973" y="1" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="008.png" x="1135" y="1" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="009.png" x="1297" y="1" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="010.png" x="1459" y="1" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="011.png" x="1621" y="1" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="012.png" x="1783" y="1" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="013.png" x="1" y="147" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="014.png" x="163" y="147" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="015.png" x="325" y="147" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="016.png" x="487" y="147" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="017.png" x="649" y="147" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="018.png" x="811" y="147" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="019.png" x="973" y="147" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="020.png" x="1135" y="147" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="021.png" x="1297" y="147" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="022.png" x="1459" y="147" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="023.png" x="1621" y="147" w="160" h="144" pX="0.5" pY="0.5"/>
+    <sprite n="024.png" x="1783" y="147" w="160" h="144" pX="0.5" pY="0.5"/>
+</TextureAtlas>

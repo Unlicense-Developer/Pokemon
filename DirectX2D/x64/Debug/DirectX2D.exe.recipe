@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\SBAUser\source\repos\Pokemon_Portfolio\x64\Debug\DirectX2D.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\SBAUser\source\repos\Pokemon_Portfolio\x64\Debug\PixelEffect.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\SBAUser\source\repos\Pokemon_Portfolio\x64\Debug\PixelFilter.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\SBAUser\source\repos\Pokemon_Portfolio\x64\Debug\PixelInstancing.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\SBAUser\source\repos\Pokemon_Portfolio\x64\Debug\PixelLight.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\SBAUser\source\repos\Pokemon_Portfolio\x64\Debug\PixelMulti.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\SBAUser\source\repos\Pokemon_Portfolio\x64\Debug\PixelOutline.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\SBAUser\source\repos\Pokemon_Portfolio\x64\Debug\PixelPos.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\SBAUser\source\repos\Pokemon_Portfolio\x64\Debug\PixelProgressBar.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\SBAUser\source\repos\Pokemon_Portfolio\x64\Debug\PixelShader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\SBAUser\source\repos\Pokemon_Portfolio\x64\Debug\PixelUV.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\SBAUser\source\repos\Pokemon_Portfolio\x64\Debug\VertexInstancing.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\SBAUser\source\repos\Pokemon_Portfolio\x64\Debug\VertexPos.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\SBAUser\source\repos\Pokemon_Portfolio\x64\Debug\VertexUV.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
