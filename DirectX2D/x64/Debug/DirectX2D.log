@@ -1,1 +1,320 @@
-﻿
+﻿  Framework.cpp
+C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\DirectX2D\Framework\Math\Vector2.h(10,29): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+  (compiling source file 'Framework.cpp')
+  
+C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\DirectX2D\Framework\Math\Vector2.h(10,41): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+  (compiling source file 'Framework.cpp')
+  
+C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\DirectX2D\Framework\Render\Texture.h(14,70): warning C4244: 'argument': conversion from 'const size_t' to 'float', possible loss of data
+  (compiling source file 'Framework.cpp')
+  
+C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\DirectX2D\Framework\Render\Texture.h(14,43): warning C4244: 'argument': conversion from 'const size_t' to 'float', possible loss of data
+  (compiling source file 'Framework.cpp')
+  
+  DirectX2D.cpp
+  ConstBuffer.cpp
+  IndexBuffer.cpp
+  VertexBuffer.cpp
+  CircleCollider.cpp
+C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\DirectX2D\Framework\Collision\CircleCollider.cpp(20,41): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+  (compiling source file '/Framework/Collision/CircleCollider.cpp')
+  
+  Collider.cpp
+C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\DirectX2D\Framework\Collision\Collider.cpp(34,27): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+  (compiling source file '/Framework/Collision/Collider.cpp')
+  
+  LineCollider.cpp
+C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\DirectX2D\Framework\Collision\LineCollider.cpp(9,41): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+  (compiling source file '/Framework/Collision/LineCollider.cpp')
+  
+  RectCollider.cpp
+C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\DirectX2D\Framework\Collision\RectCollider.cpp(17,41): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+  (compiling source file '/Framework/Collision/RectCollider.cpp')
+  
+  Camera.cpp
+  Environment.cpp
+C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\DirectX2D\Framework\Environment\Environment.cpp(33,22): warning C4244: '=': conversion from 'UINT' to 'FLOAT', possible loss of data
+  (compiling source file '/Framework/Environment/Environment.cpp')
+  
+C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\DirectX2D\Framework\Environment\Environment.cpp(34,23): warning C4244: '=': conversion from 'UINT' to 'FLOAT', possible loss of data
+  (compiling source file '/Framework/Environment/Environment.cpp')
+  
+  GameMath.cpp
+  Transform.cpp
+  Clip.cpp
+C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\DirectX2D\Framework\Render\Clip.cpp(68,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/Framework/Render/Clip.cpp')
+  
+C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\DirectX2D\Framework\Render\Clip.cpp(75,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/Framework/Render/Clip.cpp')
+  
+  Frame.cpp
+C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\DirectX2D\Framework\Render\Frame.cpp(21,83): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+  (compiling source file '/Framework/Render/Frame.cpp')
+  
+C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\DirectX2D\Framework\Render\Frame.cpp(22,63): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+  (compiling source file '/Framework/Render/Frame.cpp')
+  
+C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\DirectX2D\Framework\Render\Frame.cpp(49,83): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+  (compiling source file '/Framework/Render/Frame.cpp')
+  
+C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\DirectX2D\Framework\Render\Frame.cpp(50,63): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+  (compiling source file '/Framework/Render/Frame.cpp')
+  
+C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\DirectX2D\Framework\Render\Frame.cpp(66,33): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+  (compiling source file '/Framework/Render/Frame.cpp')
+  
+  RenderTarget.cpp
+C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\DirectX2D\Framework\Render\RenderTarget.cpp(65,28): warning C4244: 'argument': conversion from 'UINT' to 'float', possible loss of data
+  (compiling source file '/Framework/Render/RenderTarget.cpp')
+  
+C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\DirectX2D\Framework\Render\RenderTarget.cpp(65,15): warning C4244: 'argument': conversion from 'UINT' to 'float', possible loss of data
+  (compiling source file '/Framework/Render/RenderTarget.cpp')
+  
+  Texture.cpp
+  PixelShader.cpp
+  Shader.cpp
+  VertexShader.cpp
+C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\DirectX2D\Framework\Shader\VertexShader.cpp(95,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/Framework/Shader/VertexShader.cpp')
+  
+C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\DirectX2D\Framework\Shader\VertexShader.cpp(108,69): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+  (compiling source file '/Framework/Shader/VertexShader.cpp')
+  
+  Device.cpp
+  Generating Code...
+  Compiling...
+  Audio.cpp
+  BinaryReader.cpp
+  BinaryWriter.cpp
+C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\DirectX2D\Framework\Utilities\BinaryWriter.cpp(37,19): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+  (compiling source file '/Framework/Utilities/BinaryWriter.cpp')
+  
+C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\DirectX2D\Framework\Utilities\BinaryWriter.cpp(40,39): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  (compiling source file '/Framework/Utilities/BinaryWriter.cpp')
+  
+C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\DirectX2D\Framework\Utilities\BinaryWriter.cpp(45,19): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+  (compiling source file '/Framework/Utilities/BinaryWriter.cpp')
+  
+C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\DirectX2D\Framework\Utilities\BinaryWriter.cpp(48,40): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  (compiling source file '/Framework/Utilities/BinaryWriter.cpp')
+  
+  Font.cpp
+C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\DirectX2D\Framework\Utilities\Font.cpp(105,44): warning C4267: 'argument': conversion from 'size_t' to 'UINT32', possible loss of data
+  (compiling source file '/Framework/Utilities/Font.cpp')
+  
+C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\DirectX2D\Framework\Utilities\Font.cpp(129,44): warning C4267: 'argument': conversion from 'size_t' to 'UINT32', possible loss of data
+  (compiling source file '/Framework/Utilities/Font.cpp')
+  
+C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\DirectX2D\Framework\Utilities\Font.cpp(135,65): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/Framework/Utilities/Font.cpp')
+  
+C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\DirectX2D\Framework\Utilities\Font.cpp(137,68): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/Framework/Utilities/Font.cpp')
+  
+  Keyboard.cpp
+  Observer.cpp
+  Timer.cpp
+  Utility.cpp
+C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\DirectX2D\Framework\Utilities\Utility.cpp(42,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/Framework/Utilities/Utility.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xstring(2749,53): warning C4244: 'argument': conversion from 'wchar_t' to 'const _Elem', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xstring(2749,53): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xstring(2749,53): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xstring(2749,53): warning C4244:             _Elem=char
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xstring(2749,53): warning C4244:         ]
+  (compiling source file '/Framework/Utilities/Utility.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xstring(2749,53):
+      the template instantiation context (the oldest one first) is
+          C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\DirectX2D\Framework\Utilities\Utility.cpp(6,9):
+          see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::assign<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(const _Iter,const _Iter)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>
+          ]
+              C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\DirectX2D\Framework\Utilities\Utility.cpp(6,16):
+              see the first reference to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::assign' in 'Utility::ToString'
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xstring(3424,32):
+          see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<wchar_t*,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Iter=wchar_t *,
+              _Alloc=std::allocator<char>
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xstring(2590,17):
+          see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)' being compiled
+          with
+          [
+              _Size_type=unsigned __int64,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=unsigned __int64
+          ]
+  
+  tinyxml2.cpp
+  GameManager.cpp
+C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\DirectX2D\Scenes\BattleScene.h(6,41): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '/Manager/GameManager.cpp')
+  
+C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\DirectX2D\Manager\GameManager.cpp(10,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file '/Manager/GameManager.cpp')
+  
+  SceneManager.cpp
+  Action.cpp
+  AnimObject.cpp
+  Effect.cpp
+  GameObject.cpp
+  Quad.cpp
+C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\DirectX2D\Objects\Basic\Quad.cpp(35,33): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+  (compiling source file '/Objects/Basic/Quad.cpp')
+  
+C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\DirectX2D\Objects\Basic\Quad.cpp(75,83): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+  (compiling source file '/Objects/Basic/Quad.cpp')
+  
+C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\DirectX2D\Objects\Basic\Quad.cpp(76,63): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+  (compiling source file '/Objects/Basic/Quad.cpp')
+  
+C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\DirectX2D\Objects\Basic\Quad.cpp(91,56): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+  (compiling source file '/Objects/Basic/Quad.cpp')
+  
+  EnemyTrainer.cpp
+  NPC.cpp
+  Pokemon.cpp
+C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\DirectX2D\Objects\Character\Pokemon\Pokemon.cpp(194,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/Objects/Character/Pokemon/Pokemon.cpp')
+  
+C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\DirectX2D\Objects\Character\Pokemon\Pokemon.cpp(195,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/Objects/Character/Pokemon/Pokemon.cpp')
+  
+C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\DirectX2D\Objects\Character\Pokemon\Pokemon.cpp(196,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/Objects/Character/Pokemon/Pokemon.cpp')
+  
+C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\DirectX2D\Objects\Character\Pokemon\Pokemon.cpp(197,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/Objects/Character/Pokemon/Pokemon.cpp')
+  
+C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\DirectX2D\Objects\Character\Pokemon\Pokemon.cpp(198,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/Objects/Character/Pokemon/Pokemon.cpp')
+  
+C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\DirectX2D\Objects\Character\Pokemon\Pokemon.cpp(199,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/Objects/Character/Pokemon/Pokemon.cpp')
+  
+  Trainer.cpp
+  Generating Code...
+C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\DirectX2D\Objects\Character\Pokemon\Pokemon.cpp(84): warning C4715: 'Pokemon::GetSkillName': not all control paths return a value
+C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\DirectX2D\Objects\Character\Pokemon\Pokemon.cpp(99): warning C4715: 'Pokemon::GetSkillType': not all control paths return a value
+C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\DirectX2D\Objects\Character\Pokemon\Pokemon.cpp(114): warning C4715: 'Pokemon::GetSkillAttackType': not all control paths return a value
+C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\DirectX2D\Objects\Character\Pokemon\Pokemon.cpp(129): warning C4715: 'Pokemon::GetSkillPower': not all control paths return a value
+C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\DirectX2D\Objects\Character\Pokemon\Pokemon.cpp(144): warning C4715: 'Pokemon::GetSkillAcc': not all control paths return a value
+C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\DirectX2D\Objects\Character\Pokemon\Pokemon.cpp(159): warning C4715: 'Pokemon::GetSkillPP': not all control paths return a value
+  Compiling...
+  BattleManager.cpp
+C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\DirectX2D\Objects\Manager\BattleManager.cpp(80,45): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/Objects/Manager/BattleManager.cpp')
+  
+C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\DirectX2D\Objects\Manager\BattleManager.cpp(82,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/Objects/Manager/BattleManager.cpp')
+  
+C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\DirectX2D\Objects\Manager\BattleManager.cpp(428,43): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/Objects/Manager/BattleManager.cpp')
+  
+C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\DirectX2D\Objects\Manager\BattleManager.cpp(459,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/Objects/Manager/BattleManager.cpp')
+  
+C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\DirectX2D\Objects\Manager\BattleManager.cpp(489,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/Objects/Manager/BattleManager.cpp')
+  
+  EffectManager.cpp
+  EnemyManager.cpp
+  GameTileMapManager.cpp
+  PlayerManager.cpp
+  PokemonDataManager.cpp
+C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\DirectX2D\Objects\Manager\PokemonDataManager.cpp(27,10): warning C4101: 'text': unreferenced local variable
+  (compiling source file '/Objects/Manager/PokemonDataManager.cpp')
+  
+C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\DirectX2D\Objects\Manager\PokemonDataManager.cpp(77,10): warning C4101: 'text': unreferenced local variable
+  (compiling source file '/Objects/Manager/PokemonDataManager.cpp')
+  
+C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\DirectX2D\Objects\Manager\PokemonDataManager.cpp(142,10): warning C4101: 'text': unreferenced local variable
+  (compiling source file '/Objects/Manager/PokemonDataManager.cpp')
+  
+  TextBoxManager.cpp
+  UIManager.cpp
+C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\DirectX2D\Objects\Manager\UIManager.cpp(165,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/Objects/Manager/UIManager.cpp')
+  
+C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\DirectX2D\Objects\Manager\UIManager.cpp(175,71): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/Objects/Manager/UIManager.cpp')
+  
+  EditTileMap.cpp
+C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\DirectX2D\Objects\Tile\EditTileMap.cpp(8,39): warning C4244: 'argument': conversion from 'UINT' to 'float', possible loss of data
+  (compiling source file '/Objects/Tile/EditTileMap.cpp')
+  
+C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\DirectX2D\Objects\Tile\EditTileMap.cpp(8,32): warning C4244: 'argument': conversion from 'UINT' to 'float', possible loss of data
+  (compiling source file '/Objects/Tile/EditTileMap.cpp')
+  
+C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\DirectX2D\Objects\Tile\EditTileMap.cpp(140,30): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+  (compiling source file '/Objects/Tile/EditTileMap.cpp')
+  
+C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\DirectX2D\Objects\Tile\EditTileMap.cpp(155,31): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+  (compiling source file '/Objects/Tile/EditTileMap.cpp')
+  
+C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\DirectX2D\Objects\Tile\EditTileMap.cpp(170,34): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+  (compiling source file '/Objects/Tile/EditTileMap.cpp')
+  
+C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\DirectX2D\Objects\Tile\EditTileMap.cpp(185,33): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+  (compiling source file '/Objects/Tile/EditTileMap.cpp')
+  
+  GameTileMap.cpp
+C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\DirectX2D\Objects\Tile\GameTileMap.cpp(61,35): warning C4244: 'argument': conversion from 'UINT' to 'float', possible loss of data
+  (compiling source file '/Objects/Tile/GameTileMap.cpp')
+  
+C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\DirectX2D\Objects\Tile\GameTileMap.cpp(61,28): warning C4244: 'argument': conversion from 'UINT' to 'float', possible loss of data
+  (compiling source file '/Objects/Tile/GameTileMap.cpp')
+  
+C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\DirectX2D\Objects\Tile\GameTileMap.cpp(193,10): warning C4101: 'text': unreferenced local variable
+  (compiling source file '/Objects/Tile/GameTileMap.cpp')
+  
+  Tile.cpp
+  Button.cpp
+  Panel.cpp
+  ProgressBar.cpp
+  UICursor.cpp
+  BattleScene.cpp
+C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\DirectX2D\Scenes\BattleScene.h(6,41): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '/Scenes/BattleScene.cpp')
+  
+  EditTileScene.cpp
+C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\DirectX2D\Scenes\EditTileScene.cpp(137,20): warning C4267: 'initializing': conversion from 'size_t' to 'UINT', possible loss of data
+  (compiling source file '/Scenes/EditTileScene.cpp')
+  
+C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\DirectX2D\Scenes\EditTileScene.cpp(139,42): warning C4244: 'argument': conversion from 'UINT' to 'float', possible loss of data
+  (compiling source file '/Scenes/EditTileScene.cpp')
+  
+C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\DirectX2D\Scenes\EditTileScene.cpp(139,27): warning C4244: 'argument': conversion from 'UINT' to 'float', possible loss of data
+  (compiling source file '/Scenes/EditTileScene.cpp')
+  
+  IntroScene.cpp
+  PokemonScene.cpp
+  Generating Code...
+C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\DirectX2D\Objects\Tile\GameTileMap.cpp(254): warning C4715: 'GameTileMap::GetCoordToTile': not all control paths return a value
+DirectXTex.lib(DirectXTexImage.obj) : warning LNK4099: PDB '' was not found with 'DirectXTex.lib(DirectXTexImage.obj)' or at ''; linking object as if no debug info
+DirectXTex.lib(DirectXTexWIC.obj) : warning LNK4099: PDB '' was not found with 'DirectXTex.lib(DirectXTexWIC.obj)' or at ''; linking object as if no debug info
+DirectXTex.lib(DirectXTexD3D11.obj) : warning LNK4099: PDB '' was not found with 'DirectXTex.lib(DirectXTexD3D11.obj)' or at ''; linking object as if no debug info
+DirectXTex.lib(DirectXTexUtil.obj) : warning LNK4099: PDB '' was not found with 'DirectXTex.lib(DirectXTexUtil.obj)' or at ''; linking object as if no debug info
+DirectXTex.lib(DirectXTexConvert.obj) : warning LNK4099: PDB '' was not found with 'DirectXTex.lib(DirectXTexConvert.obj)' or at ''; linking object as if no debug info
+DirectXTex.lib(DirectXTexCompress.obj) : warning LNK4099: PDB '' was not found with 'DirectXTex.lib(DirectXTexCompress.obj)' or at ''; linking object as if no debug info
+DirectXTex.lib(DirectXTexMipMaps.obj) : warning LNK4099: PDB '' was not found with 'DirectXTex.lib(DirectXTexMipMaps.obj)' or at ''; linking object as if no debug info
+DirectXTex.lib(BC.obj) : warning LNK4099: PDB '' was not found with 'DirectXTex.lib(BC.obj)' or at ''; linking object as if no debug info
+DirectXTex.lib(BC4BC5.obj) : warning LNK4099: PDB '' was not found with 'DirectXTex.lib(BC4BC5.obj)' or at ''; linking object as if no debug info
+DirectXTex.lib(BC6HBC7.obj) : warning LNK4099: PDB '' was not found with 'DirectXTex.lib(BC6HBC7.obj)' or at ''; linking object as if no debug info
+ImGui.lib(imgui_impl_win32.obj) : warning LNK4099: PDB '' was not found with 'ImGui.lib(imgui_impl_win32.obj)' or at ''; linking object as if no debug info
+ImGui.lib(imgui.obj) : warning LNK4099: PDB '' was not found with 'ImGui.lib(imgui.obj)' or at ''; linking object as if no debug info
+ImGui.lib(imgui_widgets.obj) : warning LNK4099: PDB '' was not found with 'ImGui.lib(imgui_widgets.obj)' or at ''; linking object as if no debug info
+ImGui.lib(imgui_draw.obj) : warning LNK4099: PDB '' was not found with 'ImGui.lib(imgui_draw.obj)' or at ''; linking object as if no debug info
+ImGui.lib(imgui_impl_dx11.obj) : warning LNK4099: PDB '' was not found with 'ImGui.lib(imgui_impl_dx11.obj)' or at ''; linking object as if no debug info
+ImGui.lib(ImGuiFileDialog.obj) : warning LNK4099: PDB '' was not found with 'ImGui.lib(ImGuiFileDialog.obj)' or at ''; linking object as if no debug info
+ImGui.lib(imgui_tables.obj) : warning LNK4099: PDB '' was not found with 'ImGui.lib(imgui_tables.obj)' or at ''; linking object as if no debug info
+     Creating library C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\x64\Debug\DirectX2D.lib and object C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\x64\Debug\DirectX2D.exp
+  DirectX2D.vcxproj -> C:\Portfolio\Pokemon-Gold-Portfolio-In-DX2D\x64\Debug\DirectX2D.exe

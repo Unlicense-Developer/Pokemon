@@ -4,8 +4,8 @@
 GameTileMapManager::GameTileMapManager()
 {
     AddMapBGMs();
-    gameTileMap = new GameTileMap("TextData/VioletCity_Gym.map");
-    //Audio::Get()->Play(mapBGMs.at("TextData/Route29.map"), 0.5f);
+    gameTileMap = new GameTileMap("TextData/PlayerHouse2F.map");
+    Audio::Get()->Play(mapBGMs.at("TextData/PlayerHouse2F.map"), 0.5f);
 }
 
 GameTileMapManager::~GameTileMapManager()

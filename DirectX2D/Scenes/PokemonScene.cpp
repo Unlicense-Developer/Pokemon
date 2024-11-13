@@ -14,6 +14,8 @@ PokemonScene::PokemonScene()
     encounterWipe->Scale() *= 5.0f;
     encounterWipe->SetActive(false);
     
+    playerCoord = { 5, 5 };
+
     CreateSounds();
     CreateWipeClips();
 }

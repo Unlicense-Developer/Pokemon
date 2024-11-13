@@ -4,10 +4,10 @@
 #define WIN32_LEAN_AND_MEAN
 #define _CRT_SECURE_NO_WARNINGS
 
-#define WIN_WIDTH 1280
+#define WIN_WIDTH 800
 #define WIN_HEIGHT 720
 
-#define WIN_START_X 1200
+#define WIN_START_X 600
 #define WIN_START_Y 100
 
 #define CENTER_X (WIN_WIDTH * 0.5f)

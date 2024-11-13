@@ -17,7 +17,7 @@ GameManager::GameManager()
     SceneManager::Get()->Add("Pokemon", new PokemonScene());
     SceneManager::Get()->Add("Battle", new BattleScene());
 
-    SceneManager::Get()->ChangeScene("Pokemon");
+    SceneManager::Get()->ChangeScene("Intro");
 }
 
 GameManager::~GameManager()

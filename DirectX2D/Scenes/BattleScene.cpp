@@ -97,7 +97,6 @@ void BattleScene::Start()
 		BattleManager::Get()->SetEnemy(WILD_POKEMON);
 	else if (BattleManager::Get()->GetBattleType() == TRAINER_BATTLE)
 		BattleManager::Get()->SetEnemy(ENEMY_TRAINER->GetEnemyPokemon()[0]);
-		//BattleManager::Get()->SetEnemy(EnemyManager::Get()->GetEnemyPokemon()[0]);
 
 	MY_TRAINER->GetBattleImage()->Pos() = { WIN_WIDTH + MY_TRAINER->GetBattleImage()->GetSize().x, PLAYER_POS.y };
 	MY_TRAINER->GetBattleImage()->SetActive(true);

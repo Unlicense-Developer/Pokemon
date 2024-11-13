@@ -29,7 +29,7 @@ private:
     AnimObject* encounterWipe;
     Quad* encounterGlow;
 
-    Vector2 playerCoord = { 7, 3 };
+    Vector2 playerCoord = { 0, 0 };
 
     float redValue = 0.0f;
     float greenValue = 0.0f;

@@ -27,9 +27,7 @@ void IntroScene::Update()
 	hoOh->Update();
 	gameFreak->Update();
 
-	CheckGameStart();
-
-	if (KEY_DOWN('1'))
+	if (KEY_DOWN('Z'))
 	{
 		SceneManager::Get()->ChangeScene("Pokemon");
 	}
@@ -44,8 +42,6 @@ void IntroScene::Render()
 
 	hoOh->Render();
 	copyRight->Render();
-	
-	startUI->Render();
 
 	if (!gameFreak->GetCurClip()->IsPlay())
 	{
@@ -79,8 +75,6 @@ void IntroScene::Start()
 	CreatehoOhClips();
 	CreateGameFreakClips();
 
-	CreateStartUI();
-
 	Audio::Get()->Play("Intro", 0.4f);
 }
 
@@ -91,7 +85,6 @@ void IntroScene::End()
 	for (Quad* cloud : clouds)
 		delete cloud;
 
-	delete startUI;
 	delete hoOh;
 	delete gameFreak;
 }
@@ -160,22 +153,6 @@ void IntroScene::CreateGameFreakClips()
 	delete document;
 
 	gameFreak->SetClip("GameFreak");
-}
-
-void IntroScene::CheckGameStart()
-{
-	if (KEY_DOWN('Z'))
-	{
-		startUI->SetActive(true);
-	}
-}
-
-void IntroScene::CreateStartUI()
-{
-	startUI = new Quad(L"Textures/UI/Start.png");
-	startUI->SetActive(false);
-	startUI->Pos() = { CENTER_X, CENTER_Y };
-	startUI->UpdateWorld();
 }
 
 void IntroScene::PrintUIText()

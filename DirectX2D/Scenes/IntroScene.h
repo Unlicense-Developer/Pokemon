@@ -16,8 +16,6 @@ public:
 	void MoveClouds();
 	void CreatehoOhClips();
 	void CreateGameFreakClips();
-	void CheckGameStart();
-	void CreateStartUI();
 	
 	void PrintUIText();
 
@@ -27,6 +25,4 @@ private:
 	vector<Quad*> clouds;
 	AnimObject* hoOh;
 	AnimObject* gameFreak;
-
-	Quad* startUI;
 };
